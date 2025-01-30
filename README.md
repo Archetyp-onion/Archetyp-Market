@@ -1,5 +1,6 @@
 <body>
     <h1>Archetyp Market Access: Official Onion Links, Mirrors, and Safety Tips</h1>
+    <img src="https://github.com/Archetyp-onion/Archetyp-Market/blob/main/Archetyp-shop.jpg" alt="Archetyp Market Homepage Interface" style="max-width:100%; height:auto;">
     <p>Archetyp Market is a well-known darknet marketplace accessible through onion URLs on the Tor network. This guide provides detailed instructions on how to access the Archetyp website, locate official Archetyp links, and use Archetyp mirrors for continuous access.</p>
     <h2><a href="http://arche3pmohqc2fou7flomkw4gyk4tcgrre3qrttec5qpsrihyooxxdqd.onion">http://arche3pmohqc2fou7flomkw4gyk4tcgrre3qrttec5qpsrihyooxxdqd.onion</a></h2>
     <p>Click on the input to copy the link</p>
